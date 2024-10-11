@@ -1,0 +1,7 @@
+C:\Users\fodorr\Gitwork\IKT. gyak\bin\Debug\IKT.gyak.exe.config
+C:\Users\fodorr\Gitwork\IKT. gyak\bin\Debug\IKT.gyak.exe
+C:\Users\fodorr\Gitwork\IKT. gyak\bin\Debug\IKT.gyak.pdb
+C:\Users\fodorr\Gitwork\IKT. gyak\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\IKT. gyak\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\fodorr\Gitwork\IKT. gyak\obj\Debug\IKT.gyak.exe
+C:\Users\fodorr\Gitwork\IKT. gyak\obj\Debug\IKT.gyak.pdb
